@@ -1,0 +1,4 @@
+-include libraries/AudioFile/build/Makefile.link
+-include libraries/Convolver/build/Makefile.link
+-include libraries/ne10/build/Makefile.link
+-include libraries/sndfile/build/Makefile.link
